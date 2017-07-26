@@ -14,7 +14,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "javascript-obfuscator": "0.9.3",
+    "javascript-obfuscator": "git+https://github.com/kocomojollc/javascript-obfuscator.git#0.9.4-RN",
     "multi-stage-sourcemap": "0.2.1",
     "multimatch": "2.1.0"
   },
